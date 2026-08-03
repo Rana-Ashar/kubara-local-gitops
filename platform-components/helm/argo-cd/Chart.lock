@@ -1,0 +1,9 @@
+dependencies:
+- name: template-library
+  repository: file://../template-library
+  version: 0.2.0
+- name: argo-cd
+  repository: https://argoproj.github.io/argo-helm
+  version: 10.2.1
+digest: sha256:40cbcbad1f15561091b77c725c424ca95507dcbc3a83b8348c8f1ab11cd6f154
+generated: "2026-08-03T03:43:55.568217+02:00"
